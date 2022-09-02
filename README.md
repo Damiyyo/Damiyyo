@@ -2,6 +2,6 @@
 
 
 - 👀 I’m interested in ... Website development
-- 🌱 I’m currently learning ... Python and django
-- 💞️ I’m looking to collaborate on ... Python
+- 🌱 I’m currently learning ... Node.js
+- 💞️ I’m looking to collaborate on ... Node.js
 - 📫 How to reach me ... Email: banjooluwadamilola@yahoo.com
